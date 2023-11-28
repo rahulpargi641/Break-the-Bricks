@@ -24,16 +24,6 @@ Features:
 
    (Insert screenshots)
   
-## Code and Design
-
- #### Model-View-Controller-Service (MVC-S) Pattern
-
-    - The Chest entity is structured around the Model, View, and Controller components.
-    - A Service class efficiently creates and manages chests.
-
-## Focus
-    - Architecture Design for Flexibility and Scalability.
-    - Visually appealing, with soothing music, and an intuitive user interface.  
 
 ## Gameplay Demonstration
 
