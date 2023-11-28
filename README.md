@@ -8,16 +8,13 @@ Features:
 
     Bricks:
         Standard Bricks: Require multiple hits for clearance.
-        Purple Bonus Bricks: Optional, boost level completion.
         Unbreakable Bricks: Indestructible obstacles.
 
     Paddle:
         Moves left (⬅️) and right (➡️).
-        Color changes based on state (Red, Yellow, Green).
 
     UI:
         Lobby and level completion screens.
-        Progress-based lobby colors.
         Pause screen for resume, restart, and quit options.
 
 ## Screenshots
